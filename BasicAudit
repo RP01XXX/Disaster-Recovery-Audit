@@ -1,0 +1,75 @@
+Disaster Recovery Checklist
+1.	DRP Policies and executive summary portions
+  a.	Responsible party for the DRP identified?
+  b.	Management signoff on the program?
+  c.	Review process established. (How do the edit this plan?)
+  d.	Roles and responsibilities identified
+    i.	Different team responsibilities
+    ii.	Alternative roles
+    iii.	Members of the emergency response team
+    iv.	Who can declare an emergency
+    v.	Who should have a copy of the plan
+    vi.	Is the DRP accessible in band/out of band?
+    vii.	In band and out of band communication
+    viii.	Contact methods for all personnel
+  e.	Manage assets and processes
+    i.	What type of backup site is identified?
+        1.	Hot, warm, cold
+          a.	If cold, are the steps to bring the site up identified?
+          b.	If warm, are the basic resources in place?
+              i.	What is the method of management of equipment?
+              ii.	Are the steps to recovery identified for a warm site?
+          c.	If hot, who is responsible for management?
+          d.	Are directions to this location printed, documented and stored?
+        2.	Is this documented?
+        3.	Do you have a copy of the contract?
+        4.	What resources may need to be procured?
+          ii.	Tangible Assets
+            1.	Physical assets – are backup items purchased?
+            2.	People
+            3.	Software
+              a.	Is all software backed up?
+              b.	Is a POC for recovery identified for each software?
+              c.	Are recovery steps defined?
+            4.	Data
+              a.	All data backed up offsite.
+                i.	Identify responsible party for recovery
+                ii.	Define the recovery steps
+          iii.	Are critical processes identified
+            1.	Are RPOS, RTOS identified and the steps to recover the process
+            2.	Are backup resources available for recovery?
+          iv.	Are normal processes identified
+            1.	RPO, RTO? And steps identified
+            2.	Backup resources available?
+          v.	Key vendors identified for recovery
+            1.	Are contracts covering this?
+            2.	Method of contact saved in DRP
+          vi.	Process Dependency determination
+            1.	Inputs – source of information for performing the function
+            2.	Hardware – particular server or data center that performs the processing
+            3.	Staff and resource ssuporting the function
+            4.	Outputs – the data produced by the function
+            5.	Process flow – step by step description of how to perform the function
+         vii.	All document recovery
+          1.	Are all documents discussed in this document either in a third party cloud and physically printed out and stored at the recovery location?
+            f.	Insurance
+            i.	Does your insurance plan cover the BIA identified risks?
+            ii.	Is the methods of contacting them securely stored?
+            iii.	Have the parties responsible for contacting insurance identified?
+2.	Business Continuity Performed
+  a.	Risk assessment regarding disasters performed.
+  b.	Risk from utility disruption
+  c.	Risk to health and safety regarding on premise systems or chemicals.
+  d.	What type of internal, external threats exist?
+  e.	Is a budget for disaster allocated?
+  f.	Playbook Development
+    i.	Are potential scenarios discussed and actions recorded with risk and cost considerations?
+3.	Document Checklist
+  a.	DRP and BIA
+  b.	Vendor contact information
+  c.	Personnel Contact information
+  d.	Recovery site contract
+  e.	Vendors contracts and SLA’s
+  f.	Disaster insurance contact and contract
+  g.	Asset Inventory
+  h.	All recovery operation playbooks
